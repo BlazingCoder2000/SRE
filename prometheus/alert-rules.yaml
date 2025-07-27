@@ -1,2 +1,0 @@
-  IF cpu_usage > 90%
- FOR 5m
